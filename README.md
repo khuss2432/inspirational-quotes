@@ -134,7 +134,8 @@ Invite me to connect on **[LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)*
 [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@vinit.shahdeo&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/vinit.shahdeo)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@vinitshahdeo&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/vinitshahdeo/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vinitshahdeo&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vinitshahdeo/)
 
 
-> **One day your life will flash before your eyes. Make sure it is worth watching!**
+> **One day your life will flash before your eyes. Make sure
+it is worth watching!**
 
 <hr>
 
